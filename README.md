@@ -1,6 +1,6 @@
 ### 🖥️ I Make many things. 🖥️
 - CS Student & Full Stack Developer.
-- Co-Founder & Developer of Vertile Development Group.
+- Co-Founder and Developer for Plunge Communications.
 - Handled well over 250k users data. (MySQL/Rethink/Cassandra)
 - Created & maintained multiple libraries.
 - ASM, C/C++, C#, LUA, HTML/CSS, PHP, JS, TS, + more.
