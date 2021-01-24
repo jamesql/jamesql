@@ -1,4 +1,4 @@
-### 🖥️ I Make many things. 🖥️
+### 🖥️ JamesQL
 - CS Student & Full Stack Developer.
 - Co-Founder and Developer for Plunge Communications.
 - Handled well over 250k users data. (MySQL/Rethink/Cassandra)
