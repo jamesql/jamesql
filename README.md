@@ -1,9 +1,9 @@
 ### 🖥️ JamesQL
 - CS Student & Full Stack Developer.
 - Co-Founder and Developer for Plunge Communications.
-- Handled well over 250k users data. (MySQL/Rethink/Cassandra)
+- Handled over 250k users data. (MySQL/Rethink/Cassandra/PostgreSQL)
 - Created & maintained multiple libraries.
-- ASM, C/C++, C#, LUA, HTML/CSS, PHP, JS, TS, + more.
+- TypeScript, JS, C#, C++, Java, Lua, Elixir, HTML/CSS
 - Founder & President of Programming Club. (2019-2021)
 - "php is good, just don't look too closely..."
 
