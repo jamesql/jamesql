@@ -8,5 +8,5 @@
 - "php is good, just don't look too closely..."
 
 [![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamesql)](https://github.com/jamesql)
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamesql&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamesql&theme=onedark&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
