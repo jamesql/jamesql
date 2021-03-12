@@ -7,5 +7,5 @@
 - Founder & President of Programming Club. (2019-2021)
 - "php is good, just don't look too closely..."
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamesql&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamesql&theme=gruvbox&title=MultiLanguage,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
