@@ -1,6 +1,6 @@
 ### 🖥️ JamesQL
 - CS Student & Full Stack Developer.
-- Co-Founder and Software Engineer for [Vybe Creatuibs](https://github.com/VybeCreations).
+- Co-Founder and Software Engineer for [Vybe Creations](https://github.com/VybeCreations).
 - Contributor @ https://dogehouse.tv. View on [GitHub](https://github.com/benawad/dogehouse).
 - Handled over 250k users data. (MySQL/MongoDB/Cassandra/PostgreSQL)
 - TypeScript, JS, C#, C++, Java, Lua, Elixir, HTML/CSS
